@@ -1,0 +1,10 @@
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap01\Williams Solution\Williams Project\bin\Debug\Williams Project.exe.config
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap01\Williams Solution\Williams Project\bin\Debug\Williams Project.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap01\Williams Solution\Williams Project\bin\Debug\Williams Project.pdb
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap01\Williams Solution\Williams Project\bin\Debug\Williams Project.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap01\Williams Solution\Williams Project\obj\Debug\Williams_Project.frmMain.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap01\Williams Solution\Williams Project\obj\Debug\Williams_Project.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap01\Williams Solution\Williams Project\obj\Debug\Williams Project.vbproj.GenerateResource.Cache
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap01\Williams Solution\Williams Project\obj\Debug\Williams Project.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap01\Williams Solution\Williams Project\obj\Debug\Williams Project.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap01\Williams Solution\Williams Project\obj\Debug\Williams Project.pdb

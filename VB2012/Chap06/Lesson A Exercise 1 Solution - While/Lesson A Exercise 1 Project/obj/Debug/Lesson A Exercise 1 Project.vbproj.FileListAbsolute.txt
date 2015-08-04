@@ -1,0 +1,14 @@
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap06\Lesson A Exercise 1 Solution\Lesson A Exercise 1 Project\bin\Debug\Lesson A Exercise 1 Project.exe.config
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap06\Lesson A Exercise 1 Solution\Lesson A Exercise 1 Project\bin\Debug\Lesson A Exercise 1 Project.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap06\Lesson A Exercise 1 Solution\Lesson A Exercise 1 Project\bin\Debug\Lesson A Exercise 1 Project.pdb
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap06\Lesson A Exercise 1 Solution\Lesson A Exercise 1 Project\bin\Debug\Lesson A Exercise 1 Project.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap06\Lesson A Exercise 1 Solution\Lesson A Exercise 1 Project\obj\Debug\Lesson_A_Exercise_1_Project.frmMain.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap06\Lesson A Exercise 1 Solution\Lesson A Exercise 1 Project\obj\Debug\Lesson_A_Exercise_1_Project.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap06\Lesson A Exercise 1 Solution\Lesson A Exercise 1 Project\obj\Debug\Lesson A Exercise 1 Project.vbproj.GenerateResource.Cache
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap06\Lesson A Exercise 1 Solution\Lesson A Exercise 1 Project\obj\Debug\Lesson A Exercise 1 Project.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap06\Lesson A Exercise 1 Solution\Lesson A Exercise 1 Project\obj\Debug\Lesson A Exercise 1 Project.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap06\Lesson A Exercise 1 Solution\Lesson A Exercise 1 Project\obj\Debug\Lesson A Exercise 1 Project.pdb
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap06\Lesson A Exercise 1 Solution - While\Lesson A Exercise 1 Project\bin\Debug\Lesson A Exercise 1 Project.exe.config
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap06\Lesson A Exercise 1 Solution - While\Lesson A Exercise 1 Project\obj\Debug\Lesson A Exercise 1 Project.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap06\Lesson A Exercise 1 Solution - While\Lesson A Exercise 1 Project\obj\Debug\Lesson A Exercise 1 Project.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap06\Lesson A Exercise 1 Solution - While\Lesson A Exercise 1 Project\obj\Debug\Lesson A Exercise 1 Project.pdb

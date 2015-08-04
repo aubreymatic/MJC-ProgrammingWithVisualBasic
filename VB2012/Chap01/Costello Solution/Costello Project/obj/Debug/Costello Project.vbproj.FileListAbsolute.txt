@@ -1,0 +1,10 @@
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap01\Costello Solution\Costello Project\obj\Debug\Costello_Project.frmMain.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap01\Costello Solution\Costello Project\obj\Debug\Costello_Project.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap01\Costello Solution\Costello Project\obj\Debug\Costello Project.vbproj.GenerateResource.Cache
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap01\Costello Solution\Costello Project\bin\Debug\Costello Motors.exe.config
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap01\Costello Solution\Costello Project\bin\Debug\Costello Motors.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap01\Costello Solution\Costello Project\bin\Debug\Costello Motors.pdb
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap01\Costello Solution\Costello Project\bin\Debug\Costello Motors.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap01\Costello Solution\Costello Project\obj\Debug\Costello Motors.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap01\Costello Solution\Costello Project\obj\Debug\Costello Motors.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap01\Costello Solution\Costello Project\obj\Debug\Costello Motors.pdb

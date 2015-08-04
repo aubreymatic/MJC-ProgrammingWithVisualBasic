@@ -1,0 +1,10 @@
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap08\Bonus Solution\Bonus Project\bin\Debug\Bonus Project.exe.config
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap08\Bonus Solution\Bonus Project\bin\Debug\Bonus Project.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap08\Bonus Solution\Bonus Project\bin\Debug\Bonus Project.pdb
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap08\Bonus Solution\Bonus Project\bin\Debug\Bonus Project.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap08\Bonus Solution\Bonus Project\obj\Debug\Bonus_Project.frmMain.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap08\Bonus Solution\Bonus Project\obj\Debug\Bonus_Project.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap08\Bonus Solution\Bonus Project\obj\Debug\Bonus Project.vbproj.GenerateResource.Cache
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap08\Bonus Solution\Bonus Project\obj\Debug\Bonus Project.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap08\Bonus Solution\Bonus Project\obj\Debug\Bonus Project.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap08\Bonus Solution\Bonus Project\obj\Debug\Bonus Project.pdb

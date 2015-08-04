@@ -1,0 +1,10 @@
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap01\Splash Solution\Splash Project\bin\Debug\Red Tree Splash.exe.config
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap01\Splash Solution\Splash Project\bin\Debug\Red Tree Splash.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap01\Splash Solution\Splash Project\bin\Debug\Red Tree Splash.pdb
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap01\Splash Solution\Splash Project\bin\Debug\Red Tree Splash.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap01\Splash Solution\Splash Project\obj\Debug\Splash_Project.frmSplash.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap01\Splash Solution\Splash Project\obj\Debug\Splash_Project.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap01\Splash Solution\Splash Project\obj\Debug\Splash Project.vbproj.GenerateResource.Cache
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap01\Splash Solution\Splash Project\obj\Debug\Red Tree Splash.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap01\Splash Solution\Splash Project\obj\Debug\Red Tree Splash.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap01\Splash Solution\Splash Project\obj\Debug\Red Tree Splash.pdb

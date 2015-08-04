@@ -1,0 +1,12 @@
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap02\ABC Solution\ABC Project\bin\Debug\ABC Project.exe.config
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap02\ABC Solution\ABC Project\bin\Debug\ABC Project.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap02\ABC Solution\ABC Project\bin\Debug\ABC Project.pdb
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap02\ABC Solution\ABC Project\bin\Debug\ABC Project.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap02\ABC Solution\ABC Project\obj\Debug\ABC_Project.frmMain.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap02\ABC Solution\ABC Project\obj\Debug\ABC_Project.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap02\ABC Solution\ABC Project\obj\Debug\ABC Project.vbproj.GenerateResource.Cache
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap02\ABC Solution\ABC Project\obj\Debug\ABC Project.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap02\ABC Solution\ABC Project\obj\Debug\ABC Project.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap02\ABC Solution\ABC Project\obj\Debug\ABC Project.pdb
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap02\ABC Solution\ABC Project\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap02\ABC Solution\ABC Project\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml

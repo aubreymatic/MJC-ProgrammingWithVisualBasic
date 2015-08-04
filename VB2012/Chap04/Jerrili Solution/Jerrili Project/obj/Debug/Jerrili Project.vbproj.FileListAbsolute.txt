@@ -1,0 +1,10 @@
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap04\Jerrili Solution\Jerrili Project\bin\Debug\Jerrili Project.exe.config
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap04\Jerrili Solution\Jerrili Project\bin\Debug\Jerrili Project.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap04\Jerrili Solution\Jerrili Project\bin\Debug\Jerrili Project.pdb
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap04\Jerrili Solution\Jerrili Project\bin\Debug\Jerrili Project.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap04\Jerrili Solution\Jerrili Project\obj\Debug\Jerrili_Project.frmMain.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap04\Jerrili Solution\Jerrili Project\obj\Debug\Jerrili_Project.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap04\Jerrili Solution\Jerrili Project\obj\Debug\Jerrili Project.vbproj.GenerateResource.Cache
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap04\Jerrili Solution\Jerrili Project\obj\Debug\Jerrili Project.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap04\Jerrili Solution\Jerrili Project\obj\Debug\Jerrili Project.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap04\Jerrili Solution\Jerrili Project\obj\Debug\Jerrili Project.pdb

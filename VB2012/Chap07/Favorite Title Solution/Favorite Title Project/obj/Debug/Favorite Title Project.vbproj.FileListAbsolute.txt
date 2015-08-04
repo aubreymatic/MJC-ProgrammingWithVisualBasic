@@ -1,0 +1,10 @@
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap07\Favorite Title Solution\Favorite Title Project\bin\Debug\Favorite Title Project.exe.config
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap07\Favorite Title Solution\Favorite Title Project\bin\Debug\Favorite Title Project.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap07\Favorite Title Solution\Favorite Title Project\bin\Debug\Favorite Title Project.pdb
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap07\Favorite Title Solution\Favorite Title Project\bin\Debug\Favorite Title Project.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap07\Favorite Title Solution\Favorite Title Project\obj\Debug\Favorite_Title_Project.frmMain.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap07\Favorite Title Solution\Favorite Title Project\obj\Debug\Favorite_Title_Project.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap07\Favorite Title Solution\Favorite Title Project\obj\Debug\Favorite Title Project.vbproj.GenerateResource.Cache
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap07\Favorite Title Solution\Favorite Title Project\obj\Debug\Favorite Title Project.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap07\Favorite Title Solution\Favorite Title Project\obj\Debug\Favorite Title Project.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap07\Favorite Title Solution\Favorite Title Project\obj\Debug\Favorite Title Project.pdb

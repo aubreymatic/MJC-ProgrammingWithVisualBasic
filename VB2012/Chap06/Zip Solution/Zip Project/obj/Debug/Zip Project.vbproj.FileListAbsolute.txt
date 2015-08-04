@@ -1,0 +1,10 @@
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap06\Zip Solution\Zip Project\bin\Debug\Zip Project.exe.config
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap06\Zip Solution\Zip Project\bin\Debug\Zip Project.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap06\Zip Solution\Zip Project\bin\Debug\Zip Project.pdb
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap06\Zip Solution\Zip Project\bin\Debug\Zip Project.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap06\Zip Solution\Zip Project\obj\Debug\Zip_Project.frmMain.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap06\Zip Solution\Zip Project\obj\Debug\Zip_Project.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap06\Zip Solution\Zip Project\obj\Debug\Zip Project.vbproj.GenerateResource.Cache
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap06\Zip Solution\Zip Project\obj\Debug\Zip Project.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap06\Zip Solution\Zip Project\obj\Debug\Zip Project.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap06\Zip Solution\Zip Project\obj\Debug\Zip Project.pdb

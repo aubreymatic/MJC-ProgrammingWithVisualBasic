@@ -1,0 +1,10 @@
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap04\Corondo Solution\Corondo Project\bin\Debug\Corondo Project.exe.config
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap04\Corondo Solution\Corondo Project\bin\Debug\Corondo Project.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap04\Corondo Solution\Corondo Project\bin\Debug\Corondo Project.pdb
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap04\Corondo Solution\Corondo Project\bin\Debug\Corondo Project.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap04\Corondo Solution\Corondo Project\obj\Debug\Corondo_Project.frmMain.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap04\Corondo Solution\Corondo Project\obj\Debug\Corondo_Project.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap04\Corondo Solution\Corondo Project\obj\Debug\Corondo Project.vbproj.GenerateResource.Cache
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap04\Corondo Solution\Corondo Project\obj\Debug\Corondo Project.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap04\Corondo Solution\Corondo Project\obj\Debug\Corondo Project.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap04\Corondo Solution\Corondo Project\obj\Debug\Corondo Project.pdb

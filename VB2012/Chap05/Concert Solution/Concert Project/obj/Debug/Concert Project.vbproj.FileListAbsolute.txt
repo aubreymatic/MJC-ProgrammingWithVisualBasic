@@ -1,0 +1,10 @@
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap05\Concert Solution\Concert Project\bin\Debug\Concert Project.exe.config
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap05\Concert Solution\Concert Project\bin\Debug\Concert Project.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap05\Concert Solution\Concert Project\bin\Debug\Concert Project.pdb
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap05\Concert Solution\Concert Project\bin\Debug\Concert Project.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap05\Concert Solution\Concert Project\obj\Debug\Concert_Project.frmMain.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap05\Concert Solution\Concert Project\obj\Debug\Concert_Project.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap05\Concert Solution\Concert Project\obj\Debug\Concert Project.vbproj.GenerateResource.Cache
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap05\Concert Solution\Concert Project\obj\Debug\Concert Project.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap05\Concert Solution\Concert Project\obj\Debug\Concert Project.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap05\Concert Solution\Concert Project\obj\Debug\Concert Project.pdb

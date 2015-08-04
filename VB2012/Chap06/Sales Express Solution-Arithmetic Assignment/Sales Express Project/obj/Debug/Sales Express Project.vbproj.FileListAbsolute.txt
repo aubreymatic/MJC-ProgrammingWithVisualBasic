@@ -1,0 +1,14 @@
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap06\Sales Express Solution\Sales Express Project\bin\Debug\Sales Express Project.exe.config
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap06\Sales Express Solution\Sales Express Project\bin\Debug\Sales Express Project.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap06\Sales Express Solution\Sales Express Project\bin\Debug\Sales Express Project.pdb
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap06\Sales Express Solution\Sales Express Project\bin\Debug\Sales Express Project.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap06\Sales Express Solution\Sales Express Project\obj\Debug\Sales_Express_Project.frmMain.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap06\Sales Express Solution\Sales Express Project\obj\Debug\Sales_Express_Project.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap06\Sales Express Solution\Sales Express Project\obj\Debug\Sales Express Project.vbproj.GenerateResource.Cache
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap06\Sales Express Solution\Sales Express Project\obj\Debug\Sales Express Project.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap06\Sales Express Solution\Sales Express Project\obj\Debug\Sales Express Project.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap06\Sales Express Solution\Sales Express Project\obj\Debug\Sales Express Project.pdb
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap06\Sales Express Solution-Arithmetic Assignment\Sales Express Project\bin\Debug\Sales Express Project.exe.config
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap06\Sales Express Solution-Arithmetic Assignment\Sales Express Project\obj\Debug\Sales Express Project.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap06\Sales Express Solution-Arithmetic Assignment\Sales Express Project\obj\Debug\Sales Express Project.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap06\Sales Express Solution-Arithmetic Assignment\Sales Express Project\obj\Debug\Sales Express Project.pdb

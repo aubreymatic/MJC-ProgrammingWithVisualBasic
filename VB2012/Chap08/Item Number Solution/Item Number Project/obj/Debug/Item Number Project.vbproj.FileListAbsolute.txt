@@ -1,0 +1,10 @@
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap08\Item Number Solution\Item Number Project\bin\Debug\Item Number Project.exe.config
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap08\Item Number Solution\Item Number Project\bin\Debug\Item Number Project.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap08\Item Number Solution\Item Number Project\bin\Debug\Item Number Project.pdb
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap08\Item Number Solution\Item Number Project\bin\Debug\Item Number Project.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap08\Item Number Solution\Item Number Project\obj\Debug\Item_Number_Project.frmMain.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap08\Item Number Solution\Item Number Project\obj\Debug\Item_Number_Project.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap08\Item Number Solution\Item Number Project\obj\Debug\Item Number Project.vbproj.GenerateResource.Cache
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap08\Item Number Solution\Item Number Project\obj\Debug\Item Number Project.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap08\Item Number Solution\Item Number Project\obj\Debug\Item Number Project.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap08\Item Number Solution\Item Number Project\obj\Debug\Item Number Project.pdb

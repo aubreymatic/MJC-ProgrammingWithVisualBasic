@@ -1,0 +1,11 @@
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap07\Gross Pay Solution-Sub\Gross Pay Project\bin\Debug\Gross Pay Project.exe.config
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap07\Gross Pay Solution-Function\Gross Pay Project\bin\Debug\Gross Pay Project.exe.config
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap07\Gross Pay Solution-Function\Gross Pay Project\bin\Debug\Gross Pay Project.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap07\Gross Pay Solution-Function\Gross Pay Project\bin\Debug\Gross Pay Project.pdb
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap07\Gross Pay Solution-Function\Gross Pay Project\bin\Debug\Gross Pay Project.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap07\Gross Pay Solution-Function\Gross Pay Project\obj\Debug\Gross_Pay_Project.frmMain.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap07\Gross Pay Solution-Function\Gross Pay Project\obj\Debug\Gross_Pay_Project.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap07\Gross Pay Solution-Function\Gross Pay Project\obj\Debug\Gross Pay Project.vbproj.GenerateResource.Cache
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap07\Gross Pay Solution-Function\Gross Pay Project\obj\Debug\Gross Pay Project.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap07\Gross Pay Solution-Function\Gross Pay Project\obj\Debug\Gross Pay Project.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap07\Gross Pay Solution-Function\Gross Pay Project\obj\Debug\Gross Pay Project.pdb

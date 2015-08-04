@@ -1,0 +1,10 @@
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap03\Play It Again Solution\Play It Again Project\bin\Debug\Play It Again Project.exe.config
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap03\Play It Again Solution\Play It Again Project\bin\Debug\Play It Again Project.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap03\Play It Again Solution\Play It Again Project\bin\Debug\Play It Again Project.pdb
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap03\Play It Again Solution\Play It Again Project\bin\Debug\Play It Again Project.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap03\Play It Again Solution\Play It Again Project\obj\Debug\Play_It_Again_Project.frmMain.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap03\Play It Again Solution\Play It Again Project\obj\Debug\Play_It_Again_Project.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap03\Play It Again Solution\Play It Again Project\obj\Debug\Play It Again Project.vbproj.GenerateResource.Cache
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap03\Play It Again Solution\Play It Again Project\obj\Debug\Play It Again Project.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap03\Play It Again Solution\Play It Again Project\obj\Debug\Play It Again Project.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap03\Play It Again Solution\Play It Again Project\obj\Debug\Play It Again Project.pdb

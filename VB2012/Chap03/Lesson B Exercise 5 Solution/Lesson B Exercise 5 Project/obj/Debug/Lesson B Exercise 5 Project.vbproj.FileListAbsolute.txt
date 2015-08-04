@@ -1,0 +1,10 @@
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap03\Lesson B Exercise 5 Solution\Lesson B Exercise 5 Project\bin\Debug\Lesson B Exercise 5 Project.exe.config
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap03\Lesson B Exercise 5 Solution\Lesson B Exercise 5 Project\bin\Debug\Lesson B Exercise 5 Project.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap03\Lesson B Exercise 5 Solution\Lesson B Exercise 5 Project\bin\Debug\Lesson B Exercise 5 Project.pdb
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap03\Lesson B Exercise 5 Solution\Lesson B Exercise 5 Project\bin\Debug\Lesson B Exercise 5 Project.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap03\Lesson B Exercise 5 Solution\Lesson B Exercise 5 Project\obj\Debug\Lesson_B_Exercise_5_Project.frmMain.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap03\Lesson B Exercise 5 Solution\Lesson B Exercise 5 Project\obj\Debug\Lesson_B_Exercise_5_Project.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap03\Lesson B Exercise 5 Solution\Lesson B Exercise 5 Project\obj\Debug\Lesson B Exercise 5 Project.vbproj.GenerateResource.Cache
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap03\Lesson B Exercise 5 Solution\Lesson B Exercise 5 Project\obj\Debug\Lesson B Exercise 5 Project.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap03\Lesson B Exercise 5 Solution\Lesson B Exercise 5 Project\obj\Debug\Lesson B Exercise 5 Project.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap03\Lesson B Exercise 5 Solution\Lesson B Exercise 5 Project\obj\Debug\Lesson B Exercise 5 Project.pdb

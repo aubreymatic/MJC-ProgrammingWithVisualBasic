@@ -1,0 +1,13 @@
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap03\Shiloh Solution\Shiloh Project\bin\Debug\Shiloh Project.exe.config
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap03\Shiloh Solution\Shiloh Project\bin\Debug\Shiloh Project.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap03\Shiloh Solution\Shiloh Project\bin\Debug\Shiloh Project.pdb
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap03\Shiloh Solution\Shiloh Project\bin\Debug\Shiloh Project.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap03\Shiloh Solution\Shiloh Project\bin\Debug\Microsoft.VisualBasic.PowerPacks.Design.dll
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap03\Shiloh Solution\Shiloh Project\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap03\Shiloh Solution\Shiloh Project\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap03\Shiloh Solution\Shiloh Project\obj\Debug\Shiloh_Project.frmMain.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap03\Shiloh Solution\Shiloh Project\obj\Debug\Shiloh_Project.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap03\Shiloh Solution\Shiloh Project\obj\Debug\Shiloh Project.vbproj.GenerateResource.Cache
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap03\Shiloh Solution\Shiloh Project\obj\Debug\Shiloh Project.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap03\Shiloh Solution\Shiloh Project\obj\Debug\Shiloh Project.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap03\Shiloh Solution\Shiloh Project\obj\Debug\Shiloh Project.pdb

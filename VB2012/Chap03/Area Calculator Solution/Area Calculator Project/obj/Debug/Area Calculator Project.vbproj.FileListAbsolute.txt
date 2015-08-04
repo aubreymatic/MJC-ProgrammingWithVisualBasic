@@ -1,0 +1,10 @@
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap03\Area Calculator Solution\Area Calculator Project\bin\Debug\Area Calculator Project.exe.config
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap03\Area Calculator Solution\Area Calculator Project\bin\Debug\Area Calculator Project.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap03\Area Calculator Solution\Area Calculator Project\bin\Debug\Area Calculator Project.pdb
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap03\Area Calculator Solution\Area Calculator Project\bin\Debug\Area Calculator Project.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap03\Area Calculator Solution\Area Calculator Project\obj\Debug\Area_Calculator_Project.frmMain.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap03\Area Calculator Solution\Area Calculator Project\obj\Debug\Area_Calculator_Project.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap03\Area Calculator Solution\Area Calculator Project\obj\Debug\Area Calculator Project.vbproj.GenerateResource.Cache
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap03\Area Calculator Solution\Area Calculator Project\obj\Debug\Area Calculator Project.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap03\Area Calculator Solution\Area Calculator Project\obj\Debug\Area Calculator Project.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap03\Area Calculator Solution\Area Calculator Project\obj\Debug\Area Calculator Project.pdb

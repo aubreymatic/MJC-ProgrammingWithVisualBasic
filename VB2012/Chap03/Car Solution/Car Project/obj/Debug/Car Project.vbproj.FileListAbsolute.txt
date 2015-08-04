@@ -1,0 +1,10 @@
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap03\Car Solution\Car Project\bin\Debug\Car Project.exe.config
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap03\Car Solution\Car Project\bin\Debug\Car Project.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap03\Car Solution\Car Project\bin\Debug\Car Project.pdb
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap03\Car Solution\Car Project\bin\Debug\Car Project.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap03\Car Solution\Car Project\obj\Debug\Car_Project.frmMain.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap03\Car Solution\Car Project\obj\Debug\Car_Project.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap03\Car Solution\Car Project\obj\Debug\Car Project.vbproj.GenerateResource.Cache
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap03\Car Solution\Car Project\obj\Debug\Car Project.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap03\Car Solution\Car Project\obj\Debug\Car Project.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\VB2012\Chap03\Car Solution\Car Project\obj\Debug\Car Project.pdb
